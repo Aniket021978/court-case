@@ -18,16 +18,19 @@
   },
   "homepage": "https://github.com/HarshKapadia2/court_case_management_web_app#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
     "ejs": "^3.1.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-ejs-layouts": "^2.5.0",
     "express-flash": "0.0.2",
     "express-session": "^1.17.1",
+    "flash": "^1.1.0",
     "mongoose": "^5.9.11",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
+    "session": "^0.1.0",
     "socket.io": "^2.4.0"
   },
   "devDependencies": {
